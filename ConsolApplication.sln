@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAllcode", "CsharpAllc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userinput", "userinput\userinput.csproj", "{9F16A524-151E-8DD7-5687-91E9C50267A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{2B853D7A-6596-4611-9BA9-FDCE914731C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F16A524-151E-8DD7-5687-91E9C50267A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F16A524-151E-8DD7-5687-91E9C50267A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F16A524-151E-8DD7-5687-91E9C50267A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
