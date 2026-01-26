@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userinput", "userinput\user
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{2B853D7A-6596-4611-9BA9-FDCE914731C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musterarrayform", "musterarrayform\musterarrayform.csproj", "{3E26A9E3-9036-47A7-8222-C9BD26BD420B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B853D7A-6596-4611-9BA9-FDCE914731C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E26A9E3-9036-47A7-8222-C9BD26BD420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E26A9E3-9036-47A7-8222-C9BD26BD420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E26A9E3-9036-47A7-8222-C9BD26BD420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E26A9E3-9036-47A7-8222-C9BD26BD420B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
